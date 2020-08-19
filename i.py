@@ -1,5 +1,5 @@
-import re, string, time
-import pyperclip, pyautogui
+import time
+import pyautogui
 from random import choices
 
 #randomization of time it is in the 0.3xxx seconds range
