@@ -1,2 +1,2 @@
 @echo off
-@py C:\Users\Nigga\Documents\Python\imagesBosom\i.py %* 
+@py C:\<destination>\i.py %* 
